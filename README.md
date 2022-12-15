@@ -39,7 +39,7 @@ In FACSim, each MEC component has been modeled as a simple module  [Inet Applica
     <em>Figure 2 FACSim MECHost level deployment example</em>
 </p>
 
-Figure 2 shows an example of MECHost layer connected to an internal UPF (UPF-MEC in the figure) as described in [this document](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp28_mec_in_5G_FINAL.pdf). The UPF-MEC is connected to a gNB defining the 5G Radio Access Network (RAN). 
+Figure 2 shows an example of MECHost layer connected to an internal UPF (UPF-MEC in the figure) as described in the ETSI white paper [*MEC in 5G networks*](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp28_mec_in_5G_FINAL.pdf). The UPF-MEC is connected to a gNB defining the 5G Radio Access Network (RAN). 
 
 Since MEC components are modeled as applications, their deployment might occur on different devices. For example, as shown in figure 2, we choose to deploy FACSim MECHost within three devices: one representing its internal resources, one for MEC Services registration and deployment and finally a device hosting the MEC Platform Manager. 
 
