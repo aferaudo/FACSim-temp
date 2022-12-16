@@ -1,4 +1,4 @@
-# FAr-edge Cloud Simulator: simulating edge applications deployment on far-edge resources in beyond 5G networks
+# FAr-edge Computing Simulator: simulating  Deployment of Multi-access Edge Computing Applications on Far-edge Resources in beyond 5G Networks
 
 FACSim is an [Omnet++](https://omnetpp.org/) simulator modeling the distribution of edge applications on far-edge resources using ETSI MEC-compliant procedures.
 
